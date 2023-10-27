@@ -21,4 +21,10 @@ https://github.com/openvinotoolkit/open_model_zoo/tree/master
 * Open AI
 
 
-* Installation guide follows https://github.com/openvinotoolkit/openvino_notebooks 
+* Installation guide follows https://github.com/openvinotoolkit/openvino_notebooks
+
+## RESULT SAMPLE
+You can test our model with your image file, changing the path in the code.
+
+![kbra-img](https://github.com/chaewonkwak/KBRA/assets/88223748/74671853-7dbf-44c6-bbd1-7d3703952395)
+![kbra-img-2](https://github.com/chaewonkwak/KBRA/assets/88223748/7b887f40-64c7-4cff-b039-70f037005b77)
