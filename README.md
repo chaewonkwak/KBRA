@@ -19,3 +19,6 @@ https://github.com/openvinotoolkit/open_model_zoo/tree/master
 * Pretrained model from openai/clip-vit-base-patch16
 * Zero-shot learning
 * Open AI
+
+
+* Installation guide follows https://github.com/openvinotoolkit/openvino_notebooks 
